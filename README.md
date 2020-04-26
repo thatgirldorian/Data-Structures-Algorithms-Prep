@@ -4,4 +4,6 @@ I want to start learning data structures and algorithms, so this is a repository
 
 I'll also link learning resources down below soon.
 
-<h3>Resources for Studying</h3>
+<h3>Resources for Studying:</h3>
+
+- interviewcake.com
