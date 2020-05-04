@@ -4,6 +4,7 @@ I want to start learning data structures and algorithms, so this is a repository
 
 <h3>Resources for Studying:</h3>
 
--  <a href="https://interviewcake.com">Interview Cake</a>
-- Back to Back SWE
-- Data Structures Easy to Advanced Course - William Fiset
+- <a href="https://interviewcake.com">Interview Cake</a>
+- <a href="https://www.youtube.com/watch?v=RBSGKlAvoiM">Data Structures Easy to Advanced Course - William Fiset</a>
+- <a href="https://backtobackswe.com/">Back to Back SWE</a>
+
