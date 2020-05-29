@@ -13,6 +13,7 @@ I want to start learning data structures and algorithms, so this is a repository
 <h3>More Resources:</h3>
 
 - mycodeschool on YouTube
-- MIT Algo courses
+- MIT Algorithms courses
 - Geeks for Geeks
-
+- Algorithms course by Stanford on Coursera
+- The introductory algorithms course by Udacity
